@@ -1,7 +1,9 @@
 # Demand-Prediction-for-Smarter-Retail
 
 Email id: udaysankarde2022@gmail.com<br>
-LinkedIn profile id: https://www.linkedin.com/in/uday-sankar-de
+LinkedIn profile id: https://www.linkedin.com/in/uday-sankar-de<br>
+My Github Repo: https://github.com/UdaySankarDe/UdaySankar-Infosys-Nov24.git
+
 
 # About Project
 
