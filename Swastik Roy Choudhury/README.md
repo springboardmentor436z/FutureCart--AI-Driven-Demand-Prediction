@@ -4,6 +4,8 @@
 
 ### **GitHub Repository** - https://github.com/officialswastik/Swastik-Infosys-Nov24
 
+[Project Documentation](https://drive.google.com/file/d/1gx50Hb4h7ZcD1gINm6IymLwLnYH8XbFS/view?usp=sharing)
+
 
 # **Title**
 **FutureCart**: *AI-Driven Demand Prediction for Smarter Retail.*
@@ -102,6 +104,8 @@
 This project, **FutureCart: AI-Driven Demand Prediction for Smarter Retail**, focuses on leveraging advanced analytics to forecast product demand in the E-commerce sector. By integrating historical sales data with Google Analytics KPIs (e.g., clicks and impressions), the project employs time series analysis and multivariate regression to build an accurate and robust demand forecasting model.
 
 The primary outcomes include enhanced inventory management, improved marketing strategies, and data-driven decision-making. By utilizing libraries such as **pandas**, **numpy**, **statsmodels**, and **sklearn**, the project ensures efficient data processing, visualization, and predictive modeling. This initiative underscores the transformative power of AI and machine learning in optimizing retail operations.
+
+[Demo Self Presentation](https://drive.google.com/file/d/1ReAPNKHKNd4bI2Z6H_MKOn2xDPrhk93K/view?usp=sharing)
 
 
 
