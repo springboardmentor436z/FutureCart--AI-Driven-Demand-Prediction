@@ -2,7 +2,7 @@
 
 ### **Email Id** - swastikroychoudhury014@gmail.com
 
-### **GitHub Repository** - https://github.com/officialswastik/Swastik-Infosys-Nov24
+[GitHub Repository Path](https://github.com/springboardmentor436z/FutureCart--AI-Driven-Demand-Prediction/tree/main/Swastik%20Roy%20Choudhury)
 
 [Project Documentation](https://drive.google.com/file/d/1gx50Hb4h7ZcD1gINm6IymLwLnYH8XbFS/view?usp=sharing)
 
