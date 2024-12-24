@@ -103,9 +103,6 @@ This project, **FutureCart: AI-Driven Demand Prediction for Smarter Retail**, fo
 
 The primary outcomes include enhanced inventory management, improved marketing strategies, and data-driven decision-making. By utilizing libraries such as **pandas**, **numpy**, **statsmodels**, and **sklearn**, the project ensures efficient data processing, visualization, and predictive modeling. This initiative underscores the transformative power of AI and machine learning in optimizing retail operations.
 
-[Demo Self Presentation](https://drive.google.com/file/d/1ReAPNKHKNd4bI2Z6H_MKOn2xDPrhk93K/view?usp=sharing)
-
-[GitHub Repository Path](https://github.com/springboardmentor436z/FutureCart--AI-Driven-Demand-Prediction/tree/main/Swastik%20Roy%20Choudhury)
 
 
 
