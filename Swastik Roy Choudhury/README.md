@@ -23,8 +23,7 @@
 
 **>Scalable Solution:** Develop a solution that can scale to handle large datasets and varying demand patterns across multiple products.
 
-# **Milestone 1: Week 1**
-# Module 1: Data Collection
+# Data Collection
 • Understanding the problem statement 
 
 • Gathering sales data from relevant sources (database, store records) 
@@ -32,8 +31,7 @@
 • Collecting Google Analytics and Facebook Impressions data
 
 
-# **Milestone 1: Week 2**
-# Module 2: Exploratory Data Analysis (EDA) and Data Preprocessing
+# Exploratory Data Analysis (EDA) and Data Preprocessing
 
 • Ensuring my sales data is in a time series format (e.g., daily, weekly, monthly) with timestamps.
 
@@ -45,8 +43,8 @@
 
 • Statistical summaries.
 
-# **Milestone 2: Week 3**
-# Module 3: Time Series Modeling
+
+# Time Series Modeling
 
 • This week, I'm delving into time series modeling, focusing on univariate models.
 
@@ -59,8 +57,7 @@
 • I'm selecting the one that yields the lowest error metric.
 
 
-# **Milestone 2: Week 4**
-# Module 4 : Model Evaluation
+# Model Evaluation
 
 • I am visualizing the model fit by plotting predicted values against actual sales data.
 
@@ -68,28 +65,27 @@
 
 • I am checking residual plots to ensure no systematic errors remain.
 
-# **Milestone 3: Week 5**
-# Module 5: Multivariate Regression (Dynamic) 
-## **Sub-Module 5.1: Understanding Dynamic Regression & Data Preparation**  
+
+# Multivariate Regression (Dynamic) 
+## **Understanding Dynamic Regression & Data Preparation**  
 • I am creating lagged variables for imputed_Quantity, Google clicks, and Facebook impressions by shifting them by one or more time periods.  
 • I am also considering interactions between predictors where appropriate, such as analyzing whether clicks during high-season periods have a greater impact.  
 
-# **Milestone 3: Week 6**
-# Module 6: Multivariate Regression (Dynamic)  
-## **Sub-Module 6.1: Model Construction**  
+# Multivariate Regression  
+## **Model Construction**  
 
 • I am investigating functions to build dynamic regression models.  
 
 • I am starting with simple models and progressively adding complexity or interactions while working with training data.  
 
-## **Sub-Module 6.2: Model Evaluation**  
+## **Model Evaluation**  
 
 • I am using metrics like Adjusted R-squared, RMSE, and MAE to assess how well the model fits the data.  
 
 • I am visualizing residuals and comparing the performance of dynamic regression models to a basic multiple regression model.  
 
-# **Milestone 4: Week 7**
-# Module 7: Model Evaluation & Selection & Forecasting
+
+# Model Evaluation & Selection & Forecasting
 
 • I am conducting a comparative analysis of model performance on test data, calculating metrics like Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE).
 
