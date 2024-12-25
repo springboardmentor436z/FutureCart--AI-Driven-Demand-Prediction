@@ -58,7 +58,7 @@ The model is designed to handle large datasets and adapt to varying demand patte
 ### **Phase 6: Presentation & Documentation** 📚  
 - **Engaging Presentation:** Showcase findings and demonstrate the model’s capabilities through presentation & visualizations.
 - **🎬 Demo Video:** Showcase the project’s capabilities and results in action.  
-  👉 [Watch the Demo Video on GitHub](https://github.com/USERNAME/REPO_NAME/blob/main/PATH_TO_VIDEO.mp4) 
+  👉 [Watch the Demo Video on GitHub](https://github.com/springboardmentor436z/FutureCart--AI-Driven-Demand-Prediction/blob/main/Bhavajna%20Madivada/Future%20Cart(AI%20Driven%20Demand%20Prediction)%20-Demo%20Video.mp4) 
 
 ---
 
