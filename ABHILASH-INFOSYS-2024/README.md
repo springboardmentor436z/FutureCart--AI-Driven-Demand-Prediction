@@ -1,4 +1,4 @@
-Title:
+#Title:
 FutureCart: AI-Driven Demand Predic5on for Smarter Retail
 
 Project Statement:
